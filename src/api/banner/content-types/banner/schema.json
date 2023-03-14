@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homebanners",
+  "info": {
+    "singularName": "banner",
+    "pluralName": "homebanners",
+    "displayName": "轮播图"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "创新 市场 诚信 务实",
+      "required": true,
+      "maxLength": 14,
+      "minLength": 2
+    },
+    "src": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "to": {
+      "type": "string",
+      "default": "/",
+      "required": true,
+      "minLength": 1
+    },
+    "slug": {
+      "type": "uid"
+    }
+  }
+}

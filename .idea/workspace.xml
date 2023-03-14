@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="433ef5f5-daf0-48bb-8b60-7f55d132e62c" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.strapi-updater.json" beforeDir="false" afterPath="$PROJECT_DIR$/.strapi-updater.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/1487.679c32da.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/3773.e8058b82.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/3852.28f15bf5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/4675.a888eb72.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/5157.e7ebb90c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/5769.2477f0a0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/596.d0530669.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/7375.957a4f69.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/7814.4b291e6e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/7909.02b6aad0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/791.41253284.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/8245.d5acc159.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/8704.957e27cf.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/8845.3e022d9c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/8862.fe8135b8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin-authenticatedApp.4536a613.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin_InternalErrorPage.ad39abcc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin_homePage.4bf03cf5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin_marketplace.27e2eeac.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin_pluginsPage.321dc506.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin_profilePage.c29a2b6d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Admin_settingsPage.7ed44c5f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/admin-app.1b4c1abb.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/admin-edit-roles-page.a3e812b7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/admin-edit-users.85df223b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/admin-users.03d042b7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/api-tokens-create-page.3cd27c32.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/api-tokens-edit-page.010b8d63.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/api-tokens-list-page.793f7273.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ar-json.47381233.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ca-json.995b363f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-addon-closebrackets.9503e02b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-addon-lint-js.76d1adde.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-addon-lint.02b2470b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-addon-mark-selection.cd3f4f8a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-css.79f1c271.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-javacript.9cf267ae.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/codemirror-theme.b5d227f5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-manager.fbcbf607.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-list-view.1dfb0948.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-ar-json.324b64b0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-cs-json.22b9ea82.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-de-json.e4087e5d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-dk-json.9248d41c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-en-json.c60ad1c8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-es-json.3d4f5010.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-fr-json.a17f01d1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-id-json.0a2d1ec9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-it-json.88656800.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-ja-json.5066beef.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-ko-json.de5c4bf1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-ms-json.8162be0a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-nl-json.7ddb3b38.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-pl-json.02393576.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-pt-BR-json.709b81f0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-pt-json.58cb700a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-ru-json.1a7f26d4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-sk-json.d1c58c13.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-sv-json.ad851b6f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-th-json.22a848b1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-tr-json.994b09f8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-uk-json.55cade19.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-zh-Hans-json.53616c62.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder-translation-zh-json.afddbd41.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/content-type-builder.368bd3b7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cropper-css.c2c6850a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cs-json.a36cfa19.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/de-json.9c89ef14.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dk-json.154e98db.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-settings-page.407483ff.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-ar-json.79a6e89b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-cs-json.9d33ddc7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-de-json.6f910343.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-dk-json.2bd82cea.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-en-json.ced150e3.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-es-json.d9b72f11.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-fr-json.a0fa0d90.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-id-json.317d1235.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-it-json.497a208a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-ja-json.7da70e0f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-ko-json.a24d72e4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-ms-json.22579a24.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-nl-json.4aa485bb.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-pl-json.dcf6c151.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-pt-BR-json.97b84f2b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-pt-json.a57d32ae.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-ru-json.28446223.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-sk-json.75577962.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-th-json.dddc9f6f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-tr-json.dff6eee6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-uk-json.6aee162f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-vi-json.c77e451c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-zh-Hans-json.4c12cd5e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/email-translation-zh-json.0e5269d0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/en-json.0dde0ce5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/es-json.cf390b18.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fontawesome-css-all.09bed2d2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fontawesome-css.160a2e97.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fontawesome-js.c006a7c3.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fr-json.d3c4f5d8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/graphql-translation-dk-json.25925493.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/graphql-translation-en-json.7d873183.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/graphql-translation-es-json.c13450b1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/graphql-translation-fr-json.274d73a4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/graphql-translation-pl-json.158d7b7c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/graphql-translation-zh-Hans-json.de800148.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gu-json.877ef9f5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/he-json.17609ba2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/hi-json.ed5cd0f8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/highlight.js.e1561452.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/hu-json.ace8a5c7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-settings-page.e5fee04b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-de-json.7ec52f26.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-dk-json.85706464.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-en-json.1832e740.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-es-json.a007c33b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-fr-json.2f2db6b8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-ko-json.d10ac887.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-pl-json.352c2760.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/i18n-translation-zh-Hans-json.3364fe67.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/id-json.c7e34993.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/it-json.a2bb7e31.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ja-json.dd329d10.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ko-json.08269a8c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main.c7650288.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ml-json.f54c777a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ms-json.f9177942.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nl-json.7b2cdf4a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/no-json.c8731b59.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pl-json.ab819f1a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pt-BR-json.4a51fe18.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pt-json.18f42ec8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ru-json.557669b0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/runtime~main.b802c09c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sa-json.4625a450.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sk-json.3af82224.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sso-settings-page.dc9cc3ca.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sv-json.ad811a06.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/th-json.ea07cc9f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tr-json.0b2ac358.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/uk-json.f9a165a5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-settings.db372dc1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-ca-json.abc0b1f2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-de-json.a5744826.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-dk-json.c64423ce.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-en-json.cb4c4a20.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-es-json.75b328ee.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-fr-json.9c7feb42.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-he-json.0022a5b8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-it-json.59c33ff1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-ja-json.b704d0f8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-ko-json.0d4fdcbd.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-ms-json.503aa333.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-pl-json.f3556768.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-pt-BR-json.7b2d72a5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-ru-json.19159063.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-sk-json.e5b75374.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-th-json.f94fad71.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-uk-json.154918df.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-zh-Hans-json.1c57cda4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload-translation-zh-json.a7664a86.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/upload.460fe8d9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-advanced-settings-page.a10a4b8d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-email-settings-page.feadb6bb.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-ar-json.289ff76f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-cs-json.44fe1ccd.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-de-json.906f53ee.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-dk-json.bfbea686.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-en-json.4b1f1710.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-es-json.94859004.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-fr-json.27b7af64.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-id-json.9c11f8f0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-it-json.77b7c7e8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-ja-json.d1392929.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-ko-json.32398f42.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-ms-json.5b67169a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-nl-json.a33cedb5.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-pl-json.5d81c827.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-pt-BR-json.10d6a327.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-pt-json.8357103d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-ru-json.4c59f206.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-sk-json.328e5dff.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-sv-json.6b859602.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-th-json.2cd0ed65.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-tr-json.082ae584.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-uk-json.002e796b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-vi-json.13f4b8f7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-zh-Hans-json.74210537.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-permissions-translation-zh-json.d40986b1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-providers-settings-page.634a31ef.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/users-roles-settings-page.6d91f1db.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/vi-json.a04abe0b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webhook-edit-page.fd37b455.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webhook-list-page.ce262107.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/zh-Hans-json.69467566.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/zh-json.f9e974f0.chunk.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MzB6WMjnQFI2qMNnTJYVIstfP3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/desk/orangeio/carera-strapi-backend/strapi-demo",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="433ef5f5-daf0-48bb-8b60-7f55d132e62c" name="变更" comment="" />
+      <created>1678760355886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678760355886</updated>
+      <workItem from="1678760357268" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

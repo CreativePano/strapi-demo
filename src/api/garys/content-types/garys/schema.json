@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "gary",
+  "info": {
+    "singularName": "garys",
+    "pluralName": "gary",
+    "displayName": "页面灰化"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "open": {
+      "type": "boolean"
+    }
+  }
+}

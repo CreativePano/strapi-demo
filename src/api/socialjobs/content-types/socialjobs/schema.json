@@ -1,0 +1,56 @@
+{
+  "kind": "collectionType",
+  "collectionName": "socialjob",
+  "info": {
+    "singularName": "socialjobs",
+    "pluralName": "socialjob",
+    "displayName": "招聘",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "maxLength": 14,
+      "default": "职位描述"
+    },
+    "slug": {
+      "type": "uid",
+      "required": true
+    },
+    "desc": {
+      "type": "richtext",
+      "default": "职位描述",
+      "required": true
+    },
+    "salary": {
+      "type": "richtext",
+      "default": "待遇",
+      "required": true
+    },
+    "base": {
+      "type": "text",
+      "required": true,
+      "default": "工作地点"
+    },
+    "date": {
+      "type": "date",
+      "required": true,
+      "default": "2023-03-25"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "a社会招聘",
+        "c实习招聘",
+        "b校园招聘"
+      ],
+      "required": true,
+      "default": "a社会招聘"
+    }
+  }
+}

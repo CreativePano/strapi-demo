@@ -1,0 +1,34 @@
+{
+  "kind": "singleType",
+  "collectionName": "iinvideos",
+  "info": {
+    "singularName": "invideo",
+    "pluralName": "iinvideos",
+    "displayName": "网站进入视频"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "display": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    },
+    "video": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "content": {
+      "type": "text",
+      "default": "大唐实创（北京）投资有限公司成立于 1997 年， 是国务院国资委直接管理的中国信息通信科技集团有限公司的全资二级子 企业，经过多年发展，不断拓展延伸产业链条，形成不动产运营、酒店运 营及餐饮服务、智慧场景解决方案三大业务板块，业务遍布国内 10 省（地 区）、100 多个城市，致力于打造成为行业领先、管理高效、数智化特色 鲜明的一站式服务提供商。",
+      "required": true,
+      "maxLength": 250
+    }
+  }
+}

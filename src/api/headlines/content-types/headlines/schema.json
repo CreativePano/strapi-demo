@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "headline",
+  "info": {
+    "singularName": "headlines",
+    "pluralName": "headline",
+    "displayName": "头条",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "uid"
+    },
+    "title": {
+      "type": "string",
+      "default": "智慧物管系统成功落地",
+      "required": true,
+      "unique": true,
+      "maxLength": 36,
+      "minLength": 2
+    },
+    "desc": {
+      "type": "text",
+      "required": true,
+      "maxLength": 400,
+      "minLength": 2
+    },
+    "to": {
+      "type": "string",
+      "default": "/",
+      "required": true,
+      "minLength": 1
+    }
+  }
+}
